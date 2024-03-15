@@ -1,0 +1,11 @@
+{
+  "name": "coderhf-test",
+  "version": "1.0.0",
+  "description": "这是coderhf的测试项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coderhf@163.com",
+  "license": "ISC"
+}
